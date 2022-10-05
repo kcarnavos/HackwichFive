@@ -49,6 +49,12 @@ class ViewController: UIViewController {
         
         bottomLabel.text = favoriteFoodsArray[currentIndex]
         
+        //on my own... what are we supposed to comment?? in my own words.. what?
+        //Your line 30= so the programs recognizes all 5 foods?
+        //Your line 32= so the app shows the names of food on the bottom label
+        //Your line 34= each time the button is pressed, the program filters through list of foods once
+        //Your line 38= once its gone through all the foods, it will print "button has been disabled"
+        //Your line 39= actually disables the button once its gone through all the foods
 
     }
 
